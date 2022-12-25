@@ -1,9 +1,8 @@
+<p align="middle"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif?1?username=manureigns&label=Profile%20views&color=0e75b6&style=flat" alt="manureigns" /> </p>
+
 <h1 align="center">Hi 👋, I'm Manureigns</h1>
 <h3 align="center">doc</h3>
-
-
-<p align="middle"> <img src="https://media4.giphy.com/headers/jmckeehen/s2wy7iphPP98.gif?1?username=manureigns&label=Profile%20views&color=0e75b6&style=flat" alt="manureigns" /> </p>
-
+<p align="middle"> <img src="https://gifimage.net/wp-content/uploads/2017/10/caleidoscopio-gif-8.gif?1?username=manureigns&label=Profile%20views&color=0e75b6&style=flat" alt="manureigns" /> </p>
 
 - 💬 Ask me about **anything**
 
