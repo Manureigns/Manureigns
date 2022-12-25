@@ -5,13 +5,13 @@
 <p align="middle"> <img src="https://media4.giphy.com/headers/jmckeehen/s2wy7iphPP98.gif?1?username=manureigns&label=Profile%20views&color=0e75b6&style=flat" alt="manureigns" /> </p>
 
 
-
-
 - 💬 Ask me about **anything**
 
 - 📄 Know about my experiences 
 
 - ⚡ Fun fact **KEEP YOUR STANDARDS AS HIGH AS U ARE.../ ●_● MUSIC FREAK 🔸️🔹️☠**
+
+<p align="middle"> <img src="https://giffiles.alphacoders.com/559/55914.gif?1?username=manureigns&label=Profile%20views&color=0e75b6&style=flat" alt="manureigns" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
