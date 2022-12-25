@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manureigns&label=Profile%20views&color=0e75b6&style=flat" alt="manureigns" /> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/naveentito](github.com/naveentito)
 
-- 📝 I regularly write articles on [github.com/naveentito](github.com/naveentito)
 
 - 💬 Ask me about **anything**
 
-- 📄 Know about my experiences [github.com/naveentito](github.com/naveentito)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **KEEP YOUR STANDARDS AS HIGH AS U ARE.../ ●_● MUSIC FREAK 🔸️🔹️☠**
 
