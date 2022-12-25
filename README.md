@@ -12,6 +12,7 @@
 
 <p align="middle"> <img src="https://giffiles.alphacoders.com/559/55914.gif?1?username=manureigns&label=Profile%20views&color=0e75b6&style=flat" alt="manureigns" /> </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_the_hedonist__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the_hedonist__" height="30" width="40" /></a>
