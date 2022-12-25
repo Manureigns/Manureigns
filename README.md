@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manureigns</h1>
 <h3 align="center">doc</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manureigns&label=Profile%20views&color=0e75b6&style=flat" alt="manureigns" /> </p>
+
+<p align="middle"> <img src="https://media4.giphy.com/headers/jmckeehen/s2wy7iphPP98.gif?1?username=manureigns&label=Profile%20views&color=0e75b6&style=flat" alt="manureigns" /> </p>
+
 
 
 
